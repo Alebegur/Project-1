@@ -1,3 +1,5 @@
 # Project-1
-Wanted to put a note here as well, just the same info I wrote about in the delivery folder. This is my P1 from last year, which I was allowed to deliver as is by Morten due to me not being able to complete the course last year because of illness. Which is why there are differences between this year's task and mine. 
+Wanted to put a note here as well, just the same info I wrote about in the delivery folder. This is my P1 from last year, which I was allowed to deliver as is by Morten due to me not being able to complete the course last year because of illness. Which is why there are differences between this year's task and mine.
+
+The notebook is delivered in the same state as it was at my deadline last year, but Morten said it was okay for me as well to fix what I could before Tuesday 23:59. This is also why the report file is currently empty, as I will upload it tomorrow due to me not having the original report (was missing a few sections due to illness) as I fixed most of it after the deadline - and as I spoke with Morten about, I'll do what I can to complete it in full tomorrow. You can probably check with Morten to see my original scoring from last year, where most of the issues were due to missing sections in the report. 
     
